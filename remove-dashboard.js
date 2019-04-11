@@ -12,4 +12,4 @@ const redirect = () =>
 
 const remove = compose(redirect, removeElementByClassName)
 
-remove("application-main ")
+remove("application-main")
